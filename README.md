@@ -16,6 +16,9 @@ emergent fraud vector, as discussed in the post.
 
 ## Binder launch
 
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dglassbrenner1/how-bad-could-this-emergent-fraud-be/HEAD?urlpath=lab/tree/math-and-Python-for-how-bad-could-the-emergent-fraud-be.ipynb)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dglassbrenner1/how-bad-could-this-emergent-fraud-be/HEAD?urlpath=%2Fdoc%2Ftree%2Fmath-and-Python-for-how-bad-could-the-emergent-fraud-be)
 
   
