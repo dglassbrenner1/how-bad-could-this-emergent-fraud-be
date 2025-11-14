@@ -18,11 +18,6 @@ emergent fraud vector, as discussed in the post.
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dglassbrenner1/how-bad-could-this-emergent-fraud-be/HEAD?urlpath=lab/tree/math-and-Python-for-how-bad-could-the-emergent-fraud-be.ipynb)
 
-Old links for testing:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dglassbrenner1/how-bad-could-this-emergent-fraud-be/HEAD?urlpath=%2Fdoc%2Ftree%2Fmath-and-Python-for-how-bad-could-the-emergent-fraud-be)
-  
-[![Binder build status](https://mybinder.org/badge_status.svg)](https://mybinder.org/v2/gh/dglassbrenner1/how-bad-could-this-emergent-fraud-be/HEAD?urlpath=%2Fdoc%2Ftree%2Fmath-and-Python-for-how-bad-could-the-emergent-fraud-be)/HEAD)
-
 ## Colab launch
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dglassbrenner1/how-bad-could-this-emergent-fraud-be/blob/main/math-and-Python-for-how-bad-could-the-emergent-fraud-be.ipynb)
